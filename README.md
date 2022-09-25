@@ -29,7 +29,7 @@ This is my first frontendmentor project
 ### Links
 
 - Solution URL: [Github](https://github.com/ak-chp1/fm_qr_code_component)
-- Live Site URL: [Github Pages](https://ak-chp1.github.io/m_qr_code_component)
+- Live Site URL: [Github Pages](https://ak-chp1.github.io/fm_qr_code_component)
 
 ## My process
 
