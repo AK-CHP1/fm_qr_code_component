@@ -29,8 +29,8 @@ This is my first frontendmentor project
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/ak-chp1/fm_qr_code_component)
+- Live Site URL: [Github Pages](https://ak-chp1.github.io/m_qr_code_component)
 
 ## My process
 
@@ -46,4 +46,4 @@ I still have to wrok on box shadow of `#card` element. And also fix some centeri
 ## Author
 
 - Name - Aayush Kumar
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AK-CHP1](https://www.frontendmentor.io/profile/AK-CHP1)
