@@ -9,12 +9,14 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 main {
+    border: 1px solid red;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 #card {
-    width: 26%;
+    flex-basis: 26%;
     min-width: 234px;
     border-radius: 12px;
     padding: 14px;
@@ -33,7 +35,7 @@ main {
 #description > h1 {
     color: hsl(218, 44%, 22%);
     font-weight: bold;
-    font-size: 24px;
+    font-size: 18px;
 }
 #description > p {
     font-size: 15px;
