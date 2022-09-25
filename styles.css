@@ -7,16 +7,18 @@ body {
     margin: 0;
     padding: 0;
     background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #card {
-    margin: 8% auto;
     width: 26%;
     min-width: 234px;
     border-radius: 12px;
     padding: 14px;
     text-align: center;
     background-color: hsl(0, 0%, 100%);
-    box-shadow: 0 8px 42px hsl(220, 15%, 55%);
+    box-shadow: 5px 5px 15px 5px rgb(0 0 0 / 3%);
 }
 #qr-image {
     width: 100%;
@@ -24,12 +26,12 @@ body {
 }
 #description {
     font-family: 'Outfit', sans-serif;
-    /* padding: 0 10%; */
     padding: 0;
 }
-#description > h3 {
+#description > h1 {
     color: hsl(218, 44%, 22%);
     font-weight: bold;
+    font-size: 24px;
 }
 #description > p {
     font-size: 15px;
@@ -38,14 +40,7 @@ body {
 
 @media (max-width: 375px) {
     #card {
-        margin: 12% auto;
         width: 84%;
-    
-        border-radius: 12px;
-        padding: 14px;
-        text-align: center;
-        background-color: hsl(0, 0%, 100%);
-        box-shadow: 0 8px 42px hsl(220, 15%, 55%);
     }
     #description {
         padding: 0 6%;
