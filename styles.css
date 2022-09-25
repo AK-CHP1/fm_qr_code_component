@@ -43,7 +43,7 @@ main {
 
 @media (max-width: 375px) {
     #card {
-        width: 84%;
+        flex-basis: 86%;
     }
     #description {
         padding: 0 6%;
