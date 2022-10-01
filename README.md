@@ -38,11 +38,11 @@ This is my first frontendmentor project
 - Semantic HTML5 markup
 - CSS custom properties
 
-### Continued development
-
-I still have to wrok on box shadow of `#card` element. And also fix some centering issues.
-
 ## Author
 
 - Name - Aayush Kumar
 - Frontend Mentor - [@AK-CHP1](https://www.frontendmentor.io/profile/AK-CHP1)
+
+## Acknowledgments
+
+I am very thankful to [@correlucas](https://www.frontendmentor.io/profile/correlucas) at frontendmentor for helping me on centering the card and box-shadow.
